@@ -170,6 +170,6 @@ $('.github').click(function () {
     window.location.href="https://github.com/phlwin722/Shopping-cart-Oche";
 })
 
-$('.github').click(function () {
+$('.githubb').click(function () {
     window.location.href="https://github.com/phlwin722/GPS-Tracker-Using-audrino";
 })

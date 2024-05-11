@@ -26,13 +26,18 @@
 }
 #animation-container{
     width: 300px;
-    margin-left: 65px;
+    margin-left: 10px;
 }
 .home-name{
     margin-top: 70px;
     font-size: 20px;
 }
 .github{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.githubb{
     font-size: 25px;
     cursor: pointer;
 }
@@ -93,7 +98,10 @@
     font-size: 25px;
     cursor: pointer;
 }
-
+.githubb{
+    font-size: 25px;
+    cursor: pointer;
+}
 .image_about{
     width: 200px;
     border-radius: 500px;
@@ -141,6 +149,11 @@
     font-size: 25px;
     cursor: pointer;
 }
+.githubb{
+    font-size: 25px;
+    cursor: pointer;
+}
+
 
 .image_about{
     width: 200px;
@@ -189,6 +202,10 @@
     font-size: 40px;
 }
 .github{
+    font-size: 25px;
+    cursor: pointer;
+}
+.githubb{
     font-size: 25px;
     cursor: pointer;
 }
