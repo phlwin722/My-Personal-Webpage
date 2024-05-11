@@ -12,6 +12,9 @@
     box-sizing: border-box;
     padding: 40px 40px 20px 40px;
 }
+#offcanvasExample{
+    width: 200px;
+}
 .navbar {
     position: relative;
 }
@@ -88,6 +91,9 @@
 #animation-container{
     width: 300px;
     
+}
+#offcanvasExample{
+    width: 300px;
 }
 .home-name{
     margin-top: 100px;
