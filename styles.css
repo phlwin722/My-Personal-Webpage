@@ -29,6 +29,7 @@
 }
 #animation-container{
     width: 300px;
+    margin-left: -10px;
 }
 .home-name{
     margin-top: 70px;
